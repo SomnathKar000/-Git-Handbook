@@ -176,7 +176,7 @@ A curated list of essential Git commands and resources to help you learn Git fas
 6. [FreeCodeCampOrg- Intermediate](https://rb.gy/1x6mc)
 7. [Programming with Mosh](https://rb.gy/vfkom)
 
-## Difference between git pull & git fetch
+## Difference between `git pull` & `git fetch`
 
 `git pull` and `git fetch` are both Git commands used to retrieve changes from a remote repository, but they differ in how they integrate those changes into the local repository. Let's explore the differences with examples:
 
